@@ -2,20 +2,15 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { JuegoComponent } from './juego/juego.component';
 
+
 const routes: Routes = [
-  {
-    path: '',    
-    redirectTo: 'Juego', 
-    component: JuegoComponent
-  },
-  {
-    path: 'Juego',
-    component: JuegoComponent
-  }
-];
+    { path: 'Juego', component: JuegoComponent },
+    { path: '', redirectTo: '/Juego', pathMatch: 'full' }
+  ];
+  
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
 })
-export class AhorcadoRoutingModule{}
+export class AhorcadoRoutingModule { }

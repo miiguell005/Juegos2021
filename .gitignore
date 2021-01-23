@@ -3,3 +3,5 @@
 ################################################################################
 
 /Juego2021/.vs
+/Juego2021/Juego.Api/obj/Debug
+/Juego2021/Juego.Core.Web/obj/Debug
