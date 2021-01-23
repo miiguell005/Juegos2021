@@ -3,5 +3,5 @@
 
 # Créditos
 
-Miguel Rodriguez (miiguell005)
+Miguel Rodriguez (miiguell005)<br>
 Bryan Vera (Hckerosos)
