@@ -1,0 +1,7 @@
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\bin\Debug\Juego.Core.Negocio.exe.config
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\bin\Debug\Juego.Core.Negocio.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\bin\Debug\Juego.Core.Negocio.pdb
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\obj\Debug\Juego.Core.Negocio.csprojAssemblyReference.cache
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\obj\Debug\Juego.Core.Negocio.csproj.CoreCompileInputs.cache
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\obj\Debug\Juego.Core.Negocio.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Negocio\obj\Debug\Juego.Core.Negocio.pdb

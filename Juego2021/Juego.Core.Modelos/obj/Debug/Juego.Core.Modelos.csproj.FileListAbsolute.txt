@@ -1,0 +1,6 @@
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Modelos\bin\Debug\Juego.Core.Modelos.exe.config
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Modelos\bin\Debug\Juego.Core.Modelos.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Modelos\bin\Debug\Juego.Core.Modelos.pdb
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Modelos\obj\Debug\Juego.Core.Modelos.csproj.CoreCompileInputs.cache
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Modelos\obj\Debug\Juego.Core.Modelos.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Modelos\obj\Debug\Juego.Core.Modelos.pdb

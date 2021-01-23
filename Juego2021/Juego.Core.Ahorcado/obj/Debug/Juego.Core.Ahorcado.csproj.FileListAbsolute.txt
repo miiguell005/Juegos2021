@@ -1,0 +1,6 @@
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Ahorcado\bin\Debug\Juego.Core.Ahorcado.exe.config
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Ahorcado\bin\Debug\Juego.Core.Ahorcado.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Ahorcado\bin\Debug\Juego.Core.Ahorcado.pdb
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Ahorcado\obj\Debug\Juego.Core.Ahorcado.csproj.CoreCompileInputs.cache
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Ahorcado\obj\Debug\Juego.Core.Ahorcado.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.Ahorcado\obj\Debug\Juego.Core.Ahorcado.pdb

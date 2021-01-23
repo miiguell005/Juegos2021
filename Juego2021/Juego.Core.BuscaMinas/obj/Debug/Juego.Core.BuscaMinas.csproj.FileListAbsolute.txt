@@ -1,0 +1,6 @@
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.BuscaMinas\bin\Debug\Juego.Core.BuscaMinas.exe.config
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.BuscaMinas\bin\Debug\Juego.Core.BuscaMinas.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.BuscaMinas\bin\Debug\Juego.Core.BuscaMinas.pdb
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.BuscaMinas\obj\Debug\Juego.Core.BuscaMinas.csproj.CoreCompileInputs.cache
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.BuscaMinas\obj\Debug\Juego.Core.BuscaMinas.exe
+D:\proyectos\Juegos2021\Juego2021\Juego.Core.BuscaMinas\obj\Debug\Juego.Core.BuscaMinas.pdb
